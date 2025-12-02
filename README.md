@@ -1,2 +1,1 @@
-v1: https://company-relationship-graph-yhprlj9zad8ndyhgxttjwf.streamlit.app/
-v2: https://company-relationship-graph-nwtu8mqvhyribx9dmofhen.streamlit.app/
+v4: https://company-relationship-graph-5q2e7kvlkxykixe567vkhz.streamlit.app/
